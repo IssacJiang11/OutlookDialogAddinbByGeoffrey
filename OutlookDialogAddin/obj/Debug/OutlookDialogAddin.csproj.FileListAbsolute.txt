@@ -1,0 +1,4 @@
+C:\Installer\OutlookDialogAddin\OutlookDialogAddin\obj\Debug\OutlookDialogAddin.csprojAssemblyReference.cache
+C:\Installer\OutlookDialogAddin\OutlookDialogAddin\obj\Debug\OutlookDialogAddin.csproj.CoreCompileInputs.cache
+C:\Temp\OutlookDialogAddin\OutlookDialogAddin\obj\Debug\OutlookDialogAddin.csproj.AssemblyReference.cache
+C:\Temp\OutlookDialogAddin\OutlookDialogAddin\obj\Debug\OutlookDialogAddin.csproj.CoreCompileInputs.cache

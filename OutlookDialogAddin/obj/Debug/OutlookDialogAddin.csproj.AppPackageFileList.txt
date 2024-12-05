@@ -1,0 +1,2 @@
+bin\Debug\app.publish\OfficeAppManifests\OutlookDialogAddinManifest.xml
+C:\Temp\OutlookDialogAddin\OutlookDialogAddin\bin\Debug\app.publish\OutlookDialogAddin.app

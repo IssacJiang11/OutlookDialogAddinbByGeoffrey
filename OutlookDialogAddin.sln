@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookDialogAddin", "OutlookDialogAddin\OutlookDialogAddin.csproj", "{2B01346E-B054-4D4C-85A9-601E93C40529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookDialogAddinWeb", "OutlookDialogAddinWeb\OutlookDialogAddinWeb.csproj", "{2DE91BB6-9D49-4C52-9AB2-E0334D2F937A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B01346E-B054-4D4C-85A9-601E93C40529}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2DE91BB6-9D49-4C52-9AB2-E0334D2F937A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE91BB6-9D49-4C52-9AB2-E0334D2F937A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE91BB6-9D49-4C52-9AB2-E0334D2F937A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE91BB6-9D49-4C52-9AB2-E0334D2F937A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A195440A-5547-43A6-8E98-C0CC0290AD37}
+	EndGlobalSection
+EndGlobal
